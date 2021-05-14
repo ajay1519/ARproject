@@ -1,1 +1,1 @@
-git clone frontend@13.233.50.60:/home/frontend/FEREPOS/LQ_Lambda/
+
